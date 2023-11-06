@@ -1,1 +1,5 @@
-# Chat_Gpt_bot
+![splash](https://github.com/AbhishekKS28/Chat_Gpt_bot/assets/138370050/2e6a9a78-6ed0-4ab4-826a-7903a8e5ee7a)
+![sign up](https://github.com/AbhishekKS28/Chat_Gpt_bot/assets/138370050/36317577-c274-47a6-a4d1-00cd3620e20c)
+![main_screen](https://github.com/AbhishekKS28/Chat_Gpt_bot/assets/138370050/cd3ddf2f-02af-467b-8c09-d28d5b0a0581)
+![chat](https://github.com/AbhishekKS28/Chat_Gpt_bot/assets/138370050/8ad478ae-0a00-4521-b966-910aec25f55f)
+![generate image](https://github.com/AbhishekKS28/Chat_Gpt_bot/assets/138370050/ad89844b-3c35-47cd-9966-239e31764531)
